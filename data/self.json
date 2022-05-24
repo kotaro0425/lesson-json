@@ -1,13 +1,18 @@
 {
-    "name":"Kotaro Mochida",
+    "name":"持田鼓太郎",
+    "niclname":"もっちー",
     "favorite":{
         "food":{
-            "meat":"chicken",
-            "fruit":"grape",
-            "main":"nodle"
+            "meat":"鶏肉",
+            "fruit":"ブドウ",
+            "main":"ラーメン"
         },
-        
+        "comic":"呪術廻戦"
+    },
+    "school":{
+        "elementary":"Misuzugaoka",
+        "junior high":"Misuzugaoka",
+        "high":"Motomachi",
+        "univercity":"Osaka"
     }
-
-
 }
